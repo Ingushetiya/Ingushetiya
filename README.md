@@ -1,29 +1,22 @@
 <h1 align="center">𝘏𝘪 𝘵𝘩𝘦𝘳𝘦, 𝘔𝘺 𝘯𝘢𝘮𝘦 𝘪𝘴 , <a href="https://github.com/Ingushetiya" target="_blank">Said</a> 𝘐'𝘮 23 𝘺.𝘰. 𝘍𝘳𝘰𝘯𝘵𝘦𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳.
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>𝘛𝘩𝘦 𝘴𝘵𝘢𝘤𝘬 𝘰𝘧 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴 𝘐 𝘸𝘰𝘳𝘬 𝘸𝘪𝘵𝘩:<h3>
-<img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-<ul><br>
-<li>𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵 𝘌𝘚6</li>
-<li>𝘙𝘦𝘢𝘤𝘵, 𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵</li>
-<li>𝘙𝘦𝘢𝘤𝘵 𝘙𝘦𝘥𝘶𝘹</li>
-<li>𝘙𝘦𝘢𝘤𝘵 𝘳𝘰𝘶𝘵𝘦𝘳 𝘥𝘰𝘮 𝘷6</li>
-<li>𝘞𝘦𝘣𝘱𝘢𝘤𝘬</li>
-<li>𝘙𝘦𝘥𝘶𝘹-𝘵𝘰𝘰𝘭𝘬𝘪𝘵</li>
-<li>𝘗𝘰𝘴𝘵𝘮𝘢𝘯</li>
-<li>𝘔𝘰𝘯𝘨𝘰𝘋𝘉</li>
-<li>𝘌𝘹𝘱𝘳𝘦𝘴𝘴𝘑𝘚, 𝘕𝘰𝘥𝘦𝘑𝘚, 𝘔𝘰𝘯𝘨𝘰𝘰𝘴𝘦</li>
-</ul>
+### Использую следующие технологии:
 
-<h3>𝘔𝘺 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴:<h3>
+<p>
+  
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-red?style=for-the-badge&logo=JavaScript&logoColor=white"/>   
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />    
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-430098?style=for-the-badge&logo=redux&logoColor=white" />   
+  <img alt="WebPack" src="https://img.shields.io/badge/webpack-111111?style=for-the-badge&logo=Webpack" />   
+  <img alt="Express" src="https://img.shields.io/badge/-Express-pink?style=for-the-badge&logo=Express&logoColor=black" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-mongo_DB-white?style=for-the-badge&logo=mongoDB&logoColor=43853d" /> 
+
+
+</p>
+
+____
+
+
+## Связь со мной: 
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/JackCoul)
