@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ### Использую следующие технологии:
 
-<!-- <p>
+<p>
   
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-red?style=for-the-badge&logo=JavaScript&logoColor=white"/>   
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />    
@@ -15,18 +15,8 @@
   <img alt="CSS 3" src="https://img.shields.io/badge/-jsonwebtoken-yellow?style=for-the-badge">
 
 
-</p> -->
-<p>
-𝘏𝘛𝘔𝘓5, 𝘊𝘚𝘚3,
-𝘙𝘦𝘢𝘤𝘵
-𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵 𝘌𝘚6, 𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵
-𝘙𝘦𝘢𝘤𝘵 𝘙𝘦𝘥𝘶𝘹, 𝘙𝘦𝘥𝘶𝘹-𝘵𝘰𝘰𝘭𝘬𝘪𝘵,
-𝘙𝘦𝘢𝘤𝘵 𝘳𝘰𝘶𝘵𝘦𝘳 𝘥𝘰𝘮 𝘷6, 𝘞𝘦𝘣𝘱𝘢𝘤𝘬,
-𝘗𝘰𝘴𝘵𝘮𝘢𝘯, 𝘔𝘰𝘯𝘨𝘰𝘋𝘉,
-𝘌𝘹𝘱𝘳𝘦𝘴𝘴𝘑𝘚, 𝘕𝘰𝘥𝘦𝘑𝘚, 𝘔𝘰𝘯𝘨𝘰𝘰𝘴𝘦
- 
-
 </p>
+
 
 ____
 
