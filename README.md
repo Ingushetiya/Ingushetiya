@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ### Использую следующие технологии:
 
-<p>
+<!-- <p>
   
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-red?style=for-the-badge&logo=JavaScript&logoColor=white"/>   
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />    
@@ -15,7 +15,7 @@
   <img alt="CSS 3" src="https://img.shields.io/badge/-jsonwebtoken-yellow?style=for-the-badge">
 
 
-</p>
+</p> -->
 
 
 ____
